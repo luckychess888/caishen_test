@@ -1,8 +1,0 @@
-{
-    "login": "U2FsdGVkX1/ggBQ8uQ+4856mlipTv5baO7eu6w718amsXw5R5eLF0UT61Z3QsZnhLwEaJYnsVaA=",
-    "game": "U2FsdGVkX19HcDpQ1RvibH3UjOPeeyxvL6MqyH5V33jPXbTEEz335FVg26JMkwDAdlKBbkuoRl0=",
-    "api": "U2FsdGVkX1+PYa1SEVxYvUd2+jbtnE9LsmoVjMkZJ59RQNEyHstdXKbNj4d3jk76",
-    "agent": "U2FsdGVkX1/EXSg/FI+gkLhc8M1HBgru0812R4yv9zYOiIFz60zDF0qxqRfTBFqr+E3MN+gUd54=",
-    "manage": "U2FsdGVkX19Rnv9/9NcyV7394gt89krxYBjef0JSqAz3+rRqqt17dPVpw8Q7kC2cAVDJMSJxAac=",
-    "download": "U2FsdGVkX18ynxTtV3YWm5FmRQjBRpkrUa1y+WdM/dRbhavPDSkKGcNmRpcNfXYZ"
-}
